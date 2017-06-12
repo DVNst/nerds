@@ -29,7 +29,7 @@
 	<main class="container">
 		<section class="shop">
 			<div class="shop-filters">
-				<form method="post">
+				<form method="get">
 					<b>Стоимость:</b>
 					<p>
 						<input type="range" name="price" min="0" max="15000" step="500" value="5000">
@@ -130,10 +130,12 @@
 						<button class="btn">9900 руб.</button>
 					</div>
 				</figure>
-				<button class="btn btn-nomber btn-nomer_active">1</button>
-				<button class="btn btn-nomber">2</button>
-				<button class="btn btn-nomber">3</button>
-				<button class="btn btn-next">Следующая</button>
+				<div class="paginator">
+					<a class="btn paginator-btn_active">1</a>
+					<a class="btn">2</a>
+					<a class="btn">3</a>
+					<a class="btn">Следующая</a>
+				</div>
 			</div>
 		</section>
 	</main>
