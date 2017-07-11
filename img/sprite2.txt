@@ -1,0 +1,71 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-cart-icon {
+    width: 15px;
+    height: 15px;
+    background-position: -10px -10px;
+}
+
+.sprite-fb-icon {
+    width: 12px;
+    height: 22px;
+    background-position: -45px -10px;
+}
+
+.sprite-icon-checkbox-hover_100 {
+    width: 27px;
+    height: 23px;
+    background-position: -77px -10px;
+}
+
+.sprite-icon-checkbox-off-hover_100 {
+    width: 23px;
+    height: 23px;
+    background-position: -124px -10px;
+}
+
+.sprite-icon-close-hover-off_100 {
+    width: 25px;
+    height: 25px;
+    background-position: -167px -10px;
+}
+
+.sprite-icon-close-hover_100 {
+    width: 21px;
+    height: 21px;
+    background-position: -212px -10px;
+}
+
+.sprite-icon-radio-hover_100 {
+    width: 25px;
+    height: 25px;
+    background-position: -253px -10px;
+}
+
+.sprite-icon-sort-down-active_100 {
+    width: 9px;
+    height: 9px;
+    background-position: -298px -10px;
+}
+
+.sprite-icon-sort-up-active_100 {
+    width: 9px;
+    height: 9px;
+    background-position: -327px -10px;
+}
+
+.sprite-insta-icon {
+    width: 21px;
+    height: 21px;
+    background-position: -356px -10px;
+}
+
+.sprite-vk-icon {
+    width: 26px;
+    height: 15px;
+    background-position: -397px -10px;
+}

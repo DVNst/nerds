@@ -1,0 +1,155 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-cart-icon {
+    width: 15px;
+    height: 15px;
+    background-position: -10px -10px;
+}
+
+.sprite-fb-icon {
+    width: 12px;
+    height: 22px;
+    background-position: -45px -10px;
+}
+
+.sprite-icon-checkbox-active_10 {
+    width: 27px;
+    height: 23px;
+    background-position: -77px -10px;
+}
+
+.sprite-icon-checkbox-hover_100 {
+    width: 27px;
+    height: 23px;
+    background-position: -124px -10px;
+}
+
+.sprite-icon-checkbox-off-active_10 {
+    width: 23px;
+    height: 23px;
+    background-position: -171px -10px;
+}
+
+.sprite-icon-checkbox-off-hover_100 {
+    width: 23px;
+    height: 23px;
+    background-position: -214px -10px;
+}
+
+.sprite-icon-checkbox-off_40 {
+    width: 23px;
+    height: 23px;
+    background-position: -257px -10px;
+}
+
+.sprite-icon-checkbox_40 {
+    width: 27px;
+    height: 23px;
+    background-position: -300px -10px;
+}
+
+.sprite-icon-close-hover-off_100 {
+    width: 25px;
+    height: 25px;
+    background-position: -347px -10px;
+}
+
+.sprite-icon-close-hover_100 {
+    width: 21px;
+    height: 21px;
+    background-position: -392px -10px;
+}
+
+.sprite-icon-close_30 {
+    width: 21px;
+    height: 21px;
+    background-position: -433px -10px;
+}
+
+.sprite-icon-close_active_10 {
+    width: 21px;
+    height: 21px;
+    background-position: -474px -10px;
+}
+
+.sprite-icon-radio-active_10 {
+    width: 25px;
+    height: 25px;
+    background-position: -515px -10px;
+}
+
+.sprite-icon-radio-hover_100 {
+    width: 25px;
+    height: 25px;
+    background-position: -560px -10px;
+}
+
+.sprite-icon-radio-off-active_10 {
+    width: 25px;
+    height: 25px;
+    background-position: -605px -10px;
+}
+
+.sprite-icon-radio-off_40 {
+    width: 25px;
+    height: 25px;
+    background-position: -650px -10px;
+}
+
+.sprite-icon-radio_40 {
+    width: 25px;
+    height: 25px;
+    background-position: -695px -10px;
+}
+
+.sprite-icon-sort-down-active_100 {
+    width: 9px;
+    height: 9px;
+    background-position: -740px -10px;
+}
+
+.sprite-icon-sort-down-hover_40 {
+    width: 9px;
+    height: 9px;
+    background-position: -769px -10px;
+}
+
+.sprite-icon-sort-down_20 {
+    width: 9px;
+    height: 9px;
+    background-position: -798px -10px;
+}
+
+.sprite-icon-sort-up-active_100 {
+    width: 9px;
+    height: 9px;
+    background-position: -827px -10px;
+}
+
+.sprite-icon-sort-up-hover_40 {
+    width: 9px;
+    height: 9px;
+    background-position: -856px -10px;
+}
+
+.sprite-icon-sort-up_20 {
+    width: 9px;
+    height: 9px;
+    background-position: -885px -10px;
+}
+
+.sprite-insta-icon {
+    width: 21px;
+    height: 21px;
+    background-position: -914px -10px;
+}
+
+.sprite-vk-icon {
+    width: 26px;
+    height: 15px;
+    background-position: -955px -10px;
+}
